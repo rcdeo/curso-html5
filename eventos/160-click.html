@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click</title>
+
+    <style>
+        body {
+            height: 100vh;
+        }
+    </style>
+</head>
+<body onclick="debug(event)">
+
+    <button type="button" onclick="debug(event)">click</button>
+    
+    <script>
+        function debug(e) {
+            console.log('Evento: ' + e.type);
+        }
+    </script>
+    
+</body>
+</html>

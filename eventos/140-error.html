@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error</title>
+</head>
+<body>
+
+    <img src="/recursos/images/xxx.gif" alt="Image" onerror="debug(event)">
+
+    <script>
+        function debug(e) {
+            console.log('Evento: ' + e.type);
+            alert('Evento: ' + e.type);
+        }
+    </script>
+    
+</body>
+</html>

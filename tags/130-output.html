@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Output</title>
+
+    <!-- Estilo CSS Padrão -->
+    <!-- <style>
+        output {
+           display: inline;
+        }
+    </style> -->
+</head>
+<body>
+
+    <form oninput="c.value = parseInt(a.value) + parseInt(b.value)">
+        <input type="range" id="a" value="0" min="0" max="10">
+        +
+        <input type="number" id="b" value="0">
+        =
+        <output name="c" for="a b">0</output>
+    </form>
+    
+</body>
+</html>

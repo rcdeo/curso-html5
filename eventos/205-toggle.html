@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle</title>
+
+    <style>
+        video {
+            width: 80vw;
+        }
+    </style>
+
+</head>
+<body>
+
+    <details ontoggle="debug(event)">
+        <summary>Hcode</summary>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non perspiciatis beatae ratione explicabo impedit vero quas odio soluta est eligendi ipsam, dolorum, ducimus recusandae. Quasi unde repellendus laborum nesciunt impedit.</p>
+    </details>
+
+    <script>
+        function debug(event) {
+            console.log('Evento: ' + event.type);
+        }
+    </script>
+    
+</body>
+</html>
