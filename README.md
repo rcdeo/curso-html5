@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img-a.udemycdn.com/course/240x135/2231672_d36d_4.jpg" width="240" height="135" alt="Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB" />
+  <img src="https://img-c.udemycdn.com/course/240x135/2231672_d36d_4.jpg" width="240" height="135" alt="Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB" />
 </p>
 
 <h3 align="center">
