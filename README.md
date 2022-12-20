@@ -18,9 +18,14 @@ No badges
 
 Todas as Tags, Atributos e Eventos do HTML5 além de CSS 3 e JavaScript na Prática com Projetos Didáticos e Incríveis.
 
-- Estrutura do HTML5
-- Estrutura da CSS3
-- Estrutura do JavaScript
+- Introdução
+- Atributos Globais
+- Tags
+- Eventos
+- Projeto - Tela de Login
+- Projeto - Tabuada
+- Projeto - Lista de Tarefas - To do
+- Projeto - Site Responsivo
 
 ### :hammer_and_wrench: Ferramentas, Frameworks e/ou Bibliotecas
 
